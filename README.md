@@ -1,2 +1,3 @@
 # hello-world
-Hello world excursive for Data Structures
+Hello world exsercise for Data Structures;
+August 27th 2024
